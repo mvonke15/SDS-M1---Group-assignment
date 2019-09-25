@@ -1,4 +1,4 @@
-# SDS-M1---Group-assignment
+# SDS M1 2019 - Groupassignment
 This repository contains documents regarding the SDS M1 2019  - Group assignment
 
 The assignment takes hold on financial data. More specific it seeks to explore how financial institutions can prevent loses due to the default of vehicle loans, through statistical methods and machine learning. 
