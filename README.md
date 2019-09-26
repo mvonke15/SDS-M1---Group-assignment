@@ -8,7 +8,7 @@ Overall this repository contains two documents:
 1. Notebook with technical coding combined with comments and textual descriptions.
 COLAB Link: https://colab.research.google.com/drive/1gTQ_F7BUl5kzPY4Jg9KfptAUtUjRqS8j
 
-  Also uploaded as PDF, HTML and ipynb files
+    Also uploaded as PDF, HTML and ipynb files
 
 
 2. PDF file, a none technical/coding stakeholder report, which briefly sums up the results from the technical coding    complemented with visualisations. 
